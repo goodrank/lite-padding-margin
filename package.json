@@ -1,0 +1,23 @@
+{
+  "name": "lite-padding-margin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodrank/lite-padding-margin.git"
+  },
+  "keywords": [
+    "padding",
+    "margin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodrank/lite-padding-margin/issues"
+  },
+  "homepage": "https://github.com/goodrank/lite-padding-margin#readme"
+}
